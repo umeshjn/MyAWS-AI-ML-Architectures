@@ -10,4 +10,4 @@ Below is one of the approach which we can employ to automate this and make the l
 
 They can read them anytime and anywhere.
 
-![](images/AutomatingTranscribingLectures.PNG)
+![](/images/AutomatingTranscribingLectures.png)
