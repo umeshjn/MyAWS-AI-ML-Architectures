@@ -5,6 +5,8 @@ AWS platform has loads of AI and ML services which gives the power of the most p
 This repository is my attempt to come up with the problem statements and architecting the solutions for these problems using AWS AI and ML services.
 
 
+<br>
+
 | Link | Description | AWS AI ML Services
 | --- | --- | --- |
 | [:link:](AutomatingTranscribingLectures.md) | Dont write down the lecture notes anymore | Amazon Transcribe
