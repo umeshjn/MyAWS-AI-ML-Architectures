@@ -8,5 +8,5 @@ This repository is my attempt to come up with the problem statements and archite
 | Link | Description | AWS AI ML Services
 | --- | --- | --- |
 | [:link:](AutomatingTranscribingLectures.md) | Dont write down the lecture notes anymore | Amazon Transcribe
-| [:link:](ChecklistExtraction.md) | Auto Service CheckList Data Extraction | Amazon Textract, Amazon QuickSight
+| [:link:](ChecklistExtraction.md) | Auto/Cars Service CheckList Data Extraction | Amazon Textract, Amazon QuickSight
 
