@@ -9,4 +9,5 @@ This repository is my attempt to come up with the problem statements and archite
 | --- | --- | --- |
 | [:link:](AutomatingTranscribingLectures.md) | Dont write down the lecture notes anymore | Amazon Transcribe
 | [:link:](ChecklistExtraction.md) | Auto/Cars Service CheckList Data Extraction | Amazon Textract, Amazon QuickSight
+| [:link:](StockMarketGyan.md) | Stock Market Gyan in Indian Languages | Amazon Transcribe, Amazon Translate, Amazon Polly
 
